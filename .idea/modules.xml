@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bd-dynamodb-query-narrowing.iml" filepath="$PROJECT_DIR$/.idea/bd-dynamodb-query-narrowing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/bd-dynamodb-query-narrowing.LibrariesAndUtilities.iml" filepath="$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/bd-dynamodb-query-narrowing.LibrariesAndUtilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/bd-dynamodb-query-narrowing.LibrariesAndUtilities.LessonPlanResources.iml" filepath="$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/bd-dynamodb-query-narrowing.LibrariesAndUtilities.LessonPlanResources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/bd-dynamodb-query-narrowing.LibrariesAndUtilities.LessonPlanResources.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/bd-dynamodb-query-narrowing.LibrariesAndUtilities.LessonPlanResources.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/bd-dynamodb-query-narrowing.LibrariesAndUtilities.LessonPlanResources.test.iml" filepath="$PROJECT_DIR$/.idea/modules/LibrariesAndUtilities/LessonPlanResources/bd-dynamodb-query-narrowing.LibrariesAndUtilities.LessonPlanResources.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bd-dynamodb-query-narrowing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bd-dynamodb-query-narrowing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bd-dynamodb-query-narrowing.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bd-dynamodb-query-narrowing.test.iml" />
+    </modules>
+  </component>
+</project>
